@@ -1,7 +1,6 @@
 
 ---
-[EN](resume-EN.md)<a class="pt-trigger" href="resume-EN" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>
-
+[EN](resume-EN.md)
 <style type="text/css">
 body{
  direction:rtl;
@@ -10,7 +9,7 @@ body{
 
 <a href="https://uupload.ir/" target="_blank"><img src="https://s4.uupload.ir/files/3_iv2n.jpg" border="0" alt="آپلود عکس" /></a>
 
- اطلاعات شخصی
+### اطلاعات شخصی
 
 ---
 <ol>
@@ -22,7 +21,7 @@ body{
 </ol>
 
 
- مهارت ها
+### مهارت ها
 
 ---
 <ol>
@@ -31,7 +30,7 @@ body{
  <li> بازی های ویدئویی</li>
 </ol>
 
- تحصیلات
+### تحصیلات
 
 ---
 <ol>
@@ -42,7 +41,7 @@ body{
  <li> دانشجوی ارشد مهندسی کامپیوتر</li>
 </ol>
 
- علایق
+### علایق
 
 ---
 <ol>
@@ -52,7 +51,7 @@ body{
  <li> بازی های ویدئویی</li>
 </ol>
 
- سوابق کاری
+### سوابق کاری
 
 ---
 <ol>
@@ -60,7 +59,7 @@ body{
   <li> تدریس آفیس در آموزشگاه های فنی و حرفه ای</li>
 </ol>
 
- زبان های محاوره
+### زبان های محاوره
 
 ---
 <ol>
@@ -68,7 +67,7 @@ body{
  <li> انگلیسی</li>
 </ol>
 
- زبان های برنامه نویسی
+### زبان های برنامه نویسی
 
 ---
 <ol>
