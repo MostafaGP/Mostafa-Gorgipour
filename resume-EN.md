@@ -2,8 +2,8 @@
 ---
 [FA](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
 
-### Mir Mohammad Kamali
-<a href="https://uupload.ir/view/1d9z_me.jpg" target="_blank"><img src="https://uupload.ir/files/1d9z_me_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+
+<a href="https://uupload.ir/" target="_blank"><img src="https://s4.uupload.ir/files/3_iv2n.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
@@ -62,14 +62,11 @@
  <li> HTML</li>
 </ol>
 
-### working Experience
 
 ---
 <ol>
-  <li> I am working in Mofid Brokerage </li>
 </ol>
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
 
 
 --- 
