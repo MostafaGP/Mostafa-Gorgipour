@@ -1,6 +1,6 @@
 
 ---
-[FA](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
+[FA](index.md)
 
 
 <a href="https://uupload.ir/" target="_blank"><img src="https://s4.uupload.ir/files/3_iv2n.jpg" border="0" alt="آپلود عکس" /></a>
